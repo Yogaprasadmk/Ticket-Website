@@ -1,0 +1,78 @@
+footer{
+    color:red;
+    font-size:14px;
+    text-align:center;
+    margin:10px;
+    }
+h1{
+    font-size:20px;
+    letter-spacing:2px;
+    margin-top:  10px;
+    margin-bottom: 10px;
+}
+label{
+    font-size: 16px;
+}
+section{
+    padding:10px 10px 10px 10px;
+    background-color: white;
+}
+body{
+    background-color: #e0e0e0;
+}
+#buy{
+    background-color: #687373;
+    margin-top: 10px;
+    color: #fcfcfc;
+}
+li{
+    style-style-type: circle;
+    style-list-position:inside;
+    padding-left:1px;
+
+}
+table{
+    border-collapse:collapse;
+    width:10%
+}
+td, th{
+    border:1px solid black;
+    padding:10px;
+}
+th{
+    background-color: #2493DF;
+    color: white;
+}
+input[type="number"],input[type="button"]
+{
+    text-align: center;
+    padding: 2px;
+    width:100%;
+    background-color: #2493DF;
+    font-weight:bold;
+    font-size:16px;
+    color:white;
+    border:none;
+    height: 40px;
+}
+form{
+    display: flex;
+}
+.form-section{
+    flex: 1;
+}
+section{
+    float:left;
+    margin-right: 10px;
+}
+#buy{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.img{
+    float:left;
+    margin-right: 10px;
+}
